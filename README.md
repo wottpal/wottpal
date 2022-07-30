@@ -32,7 +32,11 @@ Before that, I developed certified telemedicine software for doctors and patient
 
 [![Github Yieldgate](https://img.shields.io/badge/yieldgate/yieldgate-333?logo=github&logoColor=white)](https://github.com/yieldgate/yieldgate)
 
-🪙 [stablecoins.wtf](https://stablecoins.wtf) – A data- and education-dashboard about stablecoins 
+🪙 [stablecoins.wtf](https://stablecoins.wtf) – A data- and education-dashboard about stablecoins.
 
 [![Github Stablecoins](https://img.shields.io/badge/wottpal/stablecoins.wtf-333?logo=github&logoColor=white)](https://github.com/wottpal/stablecoins.wtf)
+
+🏃‍♀️ [ETHathon](https://github.com/ethathon/ethathon) – A full-stack smart-contract & dApp development boilerplate with NextJS & Hardhat.
+
+[![Github ETHathon](https://img.shields.io/badge/ethathon/ethathon-333?logo=github&logoColor=white)](https://github.com/ethathon/ethathon)
 
