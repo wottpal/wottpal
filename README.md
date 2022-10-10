@@ -1,6 +1,6 @@
 ### gm ☀️
 
-I'm a Full-Stack Developer building solutions for a decentralized future in Web3 & DeFi.
+I'm a Full-Stack Developer building solutions for a decentralized future in Web3.
 Before that, I developed certified telemedicine software for doctors and patients in Germany.
 
 ![Github Stars](https://img.shields.io/github/stars/wottpal?color=ffd45f&logo=github&style=badge)
@@ -28,13 +28,13 @@ Before that, I developed certified telemedicine software for doctors and patient
 #### My Projects ⚔️
 
 
+🪙 [stablecoins.wtf](https://stablecoins.wtf) – A data- and education-dashboard about stablecoins.
+
+[![Github Stablecoins](https://img.shields.io/badge/stablecoins.wtf/stablecoins.wtf-333?logo=github&logoColor=white)](https://github.com/stablecoins-wtf/stablecoins.wtf)
+
 🏆 [yieldgate.xyz](https://yieldgate.xyz) – A platform for creators to be supported with yield. It was selected as an ETHGlobal 2022 finalist in Amsterdam. 
 
 [![Github Yieldgate](https://img.shields.io/badge/yieldgate/yieldgate-333?logo=github&logoColor=white)](https://github.com/yieldgate/yieldgate)
-
-🪙 [stablecoins.wtf](https://stablecoins.wtf) – A data- and education-dashboard about stablecoins.
-
-[![Github Stablecoins](https://img.shields.io/badge/wottpal/stablecoins.wtf-333?logo=github&logoColor=white)](https://github.com/wottpal/stablecoins.wtf)
 
 🏃‍♀️ [ETHathon](https://github.com/ethathon/ethathon) – A full-stack smart-contract & dApp development boilerplate with NextJS & Hardhat.
 
