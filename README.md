@@ -27,8 +27,11 @@ Before that, I developed certified telemedicine software for doctors and patient
 
 #### My Projects ⚔️
 
+🪪 [azero.domains](https://azero.domains) – The official `.azero` domain name service built on [Aleph Zero](https://alephzero.org/).
 
-🪙 [stablecoins.wtf](https://stablecoins.wtf) – A data- and education-dashboard about stablecoins.
+[![Github Azero Domains](https://img.shields.io/badge/azero.domains-333?logo=github&logoColor=white)](https://github.com/azero-domains)
+
+🪙 [stablecoins.wtf](https://stablecoins.wtf) – A data- and education-dashboard about stablecoins. 
 
 [![Github Stablecoins](https://img.shields.io/badge/stablecoins.wtf/stablecoins.wtf-333?logo=github&logoColor=white)](https://github.com/stablecoins-wtf/stablecoins.wtf)
 
