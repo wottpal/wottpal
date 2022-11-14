@@ -39,7 +39,7 @@ Before that, I developed certified telemedicine software for doctors and patient
 
 [![Github Yieldgate](https://img.shields.io/badge/yieldgate/yieldgate-333?logo=github&logoColor=white)](https://github.com/yieldgate/yieldgate)
 
-🏃‍♀️ [ETHathon](https://github.com/ethathon/ethathon) – A full-stack smart-contract & dApp development boilerplate with NextJS & Hardhat.
+🏃‍♀️ [ETHathon](https://github.com/scio-labs/ethathon) – A full-stack smart-contract & dApp development boilerplate with NextJS & Hardhat.
 
-[![Github ETHathon](https://img.shields.io/badge/ethathon/ethathon-333?logo=github&logoColor=white)](https://github.com/ethathon/ethathon)
+[![Github ETHathon](https://img.shields.io/badge/scio/ethathon-333?logo=github&logoColor=white)](https://github.com/ethathon/ethathon)
 
