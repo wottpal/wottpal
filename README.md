@@ -27,7 +27,7 @@ Before that, I developed certified telemedicine software for doctors and patient
 
 #### My Projects ⚔️
 
-🪪 [azero.domains](https://azero.domains) – The official `.azero` domain name service built on [Aleph Zero](https://alephzero.org/).
+🪪 [AZERO Domains](https://azero.domains) – The official `.azero` domain name service built on [Aleph Zero](https://alephzero.org/).
 
 [![Github Azero Domains](https://img.shields.io/badge/azero.domains-333?logo=github&logoColor=white)](https://github.com/azero-domains)
 
@@ -35,11 +35,14 @@ Before that, I developed certified telemedicine software for doctors and patient
 
 [![Github Stablecoins](https://img.shields.io/badge/stablecoins.wtf/stablecoins.wtf-333?logo=github&logoColor=white)](https://github.com/stablecoins-wtf/stablecoins.wtf)
 
+🏃‍♀️ [ETHathon](https://github.com/scio-labs/ethathon) – An EVM-based Smart Contract & DApp Development Boilerplate.
+
+[![Github ETHathon](https://img.shields.io/badge/scio/ethathon-333?logo=github&logoColor=white)](https://github.com/scio-labs/ethathon)
+
+🦑 [INK!athon](https://github.com/scio-labs/inkathon) – A Substrate-based Smart Contract & DApp Development Boilerplate.
+
+[![Github INKathon](https://img.shields.io/badge/scio/inkathon-333?logo=github&logoColor=white)](https://github.com/scio-labs/inkathon)
+
 🏆 [yieldgate.xyz](https://yieldgate.xyz) – A platform for creators to be supported with yield. It was selected as an ETHGlobal 2022 finalist in Amsterdam. 
 
 [![Github Yieldgate](https://img.shields.io/badge/yieldgate/yieldgate-333?logo=github&logoColor=white)](https://github.com/yieldgate/yieldgate)
-
-🏃‍♀️ [ETHathon](https://github.com/scio-labs/ethathon) – A full-stack smart-contract & dApp development boilerplate with NextJS & Hardhat.
-
-[![Github ETHathon](https://img.shields.io/badge/scio/ethathon-333?logo=github&logoColor=white)](https://github.com/ethathon/ethathon)
-
