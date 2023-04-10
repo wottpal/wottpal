@@ -1,4 +1,4 @@
-### gm ☀️
+## gm ☀️
 
 I'm a Full-Stack Developer building solutions for a decentralized future in Web3.
 Before that, I developed certified telemedicine software for doctors and patients in Germany.
@@ -8,7 +8,7 @@ Before that, I developed certified telemedicine software for doctors and patient
 
 ***
 
-#### Connect with me 💙
+### Connect with me:
 
 [
 ![My Website](https://img.shields.io/badge/My%20Website-333?style=for-the-badge&logo=linktree&logoColor=white)
@@ -25,24 +25,20 @@ Before that, I developed certified telemedicine software for doctors and patient
 
 ***
 
-#### My Projects ⚔️
+### My Projects:
 
-🪪 [AZERO Domains](https://azero.domains) – The official `.azero` domain name service built on [Aleph Zero](https://alephzero.org/).
+🪪 [AZERO Domains](https://azero.domains) – Official Domain Name Service for Aleph Zero and beyond.
 
 [![Github Azero Domains](https://img.shields.io/badge/azero.domains-333?logo=github&logoColor=white)](https://github.com/azero-domains)
 
-🪙 [stablecoins.wtf](https://stablecoins.wtf) – A data- and education-dashboard about stablecoins. 
+🦑 [ink!athon](https://github.com/scio-labs/inkathon) – Full-Stack DApp Boilerplate for Substrate and ink! Smart Contracts.
+
+[![Github inkathon](https://img.shields.io/badge/scio/inkathon-333?logo=github&logoColor=white)](https://github.com/scio-labs/inkathon)
+
+🪙 [Stablecoins.wtf](https://stablecoins.wtf) – Historical market data, statistics, and educational content about the most popular stablecoins and their mechanisms.
 
 [![Github Stablecoins](https://img.shields.io/badge/stablecoins.wtf/stablecoins.wtf-333?logo=github&logoColor=white)](https://github.com/stablecoins-wtf/stablecoins.wtf)
 
-🏃‍♀️ [ETHathon](https://github.com/scio-labs/ethathon) – An EVM-based Smart Contract & DApp Development Boilerplate.
-
-[![Github ETHathon](https://img.shields.io/badge/scio/ethathon-333?logo=github&logoColor=white)](https://github.com/scio-labs/ethathon)
-
-🦑 [INK!athon](https://github.com/scio-labs/inkathon) – A Substrate-based Smart Contract & DApp Development Boilerplate.
-
-[![Github INKathon](https://img.shields.io/badge/scio/inkathon-333?logo=github&logoColor=white)](https://github.com/scio-labs/inkathon)
-
-🏆 [yieldgate.xyz](https://yieldgate.xyz) – A platform for creators to be supported with yield. It was selected as an ETHGlobal 2022 finalist in Amsterdam. 
+💌 [yieldgate.xyz](https://yieldgate.xyz) – A platform for creators to be supported with yield. It was selected as an ETHGlobal 2022 finalist in Amsterdam. 
 
 [![Github Yieldgate](https://img.shields.io/badge/yieldgate/yieldgate-333?logo=github&logoColor=white)](https://github.com/yieldgate/yieldgate)
