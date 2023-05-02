@@ -1,7 +1,7 @@
 ## gm ☀️
 
-I'm a Full-Stack Developer building solutions for a decentralized future in Web3.
-Before that, I developed certified telemedicine software for doctors and patients in Germany.
+I'm a Full-Stack Developer & Web3 Founder focused on crafting solutions for a decentralized future.
+My prior experience includes designing certified telemedicine applications in Germany, bridging the gap between healthcare professionals and patients.
 
 ![Github Stars](https://img.shields.io/github/stars/wottpal?color=ffd45f&logo=github&style=badge)
 ![Github Followers](https://img.shields.io/github/followers/wottpal?color=ffd45f&logo=github&style=badge)
@@ -27,9 +27,9 @@ Before that, I developed certified telemedicine software for doctors and patient
 
 ### My Projects:
 
-🪪 [AZERO Domains](https://azero.domains) – Official Domain Name Service for Aleph Zero and beyond.
+🪪 [AZERO.ID](https://azero.id) – Your Digital Identity in one Domain. The official Domain Name Service for Aleph Zero and beyond.
 
-[![Github Azero Domains](https://img.shields.io/badge/azero.domains-333?logo=github&logoColor=white)](https://github.com/azero-domains)
+[![Github AZERO ID](https://img.shields.io/badge/azero.id-333?logo=github&logoColor=white)](https://github.com/azero-id)
 
 🦑 [ink!athon](https://github.com/scio-labs/inkathon) – Full-Stack DApp Boilerplate for Substrate and ink! Smart Contracts.
 
