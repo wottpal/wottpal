@@ -1,14 +1,13 @@
 ## gm ☀️
 
-I'm a Full-Stack Developer & Web3 Founder focused on crafting solutions for a decentralized future.
-My prior experience includes designing certified telemedicine applications in Germany, bridging the gap between healthcare professionals and patients.
-
 ![Github Stars](https://img.shields.io/github/stars/wottpal?color=ffd45f&logo=github&style=badge)
 ![Github Followers](https://img.shields.io/github/followers/wottpal?color=ffd45f&logo=github&style=badge)
 
-***
+I'm a full-stack developer dedicated to creating solutions for a user-friendly onchain future.
 
-### Connect with me:
+Previously, I developed certified telemedicine applications in Germany, bridging the gap between healthcare professionals and patients.
+
+***
 
 [
 ![My Website](https://img.shields.io/badge/My%20Website-333?style=for-the-badge&logo=linktree&logoColor=white)
@@ -17,28 +16,32 @@ My prior experience includes designing certified telemedicine applications in Ge
   ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ](https://twitter.com/dennis_zoma)
 [
+![Farcaster](https://img.shields.io/badge/Farcaster-8469ce?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwMCIgaGVpZ2h0PSIxMDAwIiB2aWV3Qm94PSIwIDAgMTAwMCAxMDAwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMjU3Ljc3OCAxNTUuNTU2SDc0Mi4yMjJWODQ0LjQ0NUg2NzEuMTExVjUyOC44ODlINjcwLjQxNEM2NjIuNTU0IDQ0MS42NzcgNTg5LjI1OCAzNzMuMzMzIDUwMCAzNzMuMzMzQzQxMC43NDIgMzczLjMzMyAzMzcuNDQ2IDQ0MS42NzcgMzI5LjU4NiA1MjguODg5SDMyOC44ODlWODQ0LjQ0NUgyNTcuNzc4VjE1NS41NTZaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTI4Ljg4OSAyNTMuMzMzTDE1Ny43NzggMzUxLjExMUgxODIuMjIyVjc0Ni42NjdDMTY5Ljk0OSA3NDYuNjY3IDE2MCA3NTYuNjE2IDE2MCA3NjguODg5Vjc5NS41NTZIMTU1LjU1NkMxNDMuMjgzIDc5NS41NTYgMTMzLjMzMyA4MDUuNTA1IDEzMy4zMzMgODE3Ljc3OFY4NDQuNDQ1SDM4Mi4yMjJWODE3Ljc3OEMzODIuMjIyIDgwNS41MDUgMzcyLjI3MyA3OTUuNTU2IDM2MCA3OTUuNTU2SDM1NS41NTZWNzY4Ljg4OUMzNTUuNTU2IDc1Ni42MTYgMzQ1LjYwNiA3NDYuNjY3IDMzMy4zMzMgNzQ2LjY2N0gzMDYuNjY3VjI1My4zMzNIMTI4Ljg4OVoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik02NzUuNTU2IDc0Ni42NjdDNjYzLjI4MiA3NDYuNjY3IDY1My4zMzMgNzU2LjYxNiA2NTMuMzMzIDc2OC44ODlWNzk1LjU1Nkg2NDguODg5QzYzNi42MTYgNzk1LjU1NiA2MjYuNjY3IDgwNS41MDUgNjI2LjY2NyA4MTcuNzc4Vjg0NC40NDVIODc1LjU1NlY4MTcuNzc4Qzg3NS41NTYgODA1LjUwNSA4NjUuNjA2IDc5NS41NTYgODUzLjMzMyA3OTUuNTU2SDg0OC44ODlWNzY4Ljg4OUM4NDguODg5IDc1Ni42MTYgODM4Ljk0IDc0Ni42NjcgODI2LjY2NyA3NDYuNjY3VjM1MS4xMTFIODUxLjExMUw4ODAgMjUzLjMzM0g3MDIuMjIyVjc0Ni42NjdINjc1LjU1NloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=)
+](https://warpcast.com/dennis)
+[
 ![LinkedIn](https://img.shields.io/badge/Linkedin-0c66c2?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/dennis-zoma/)
-[
-![Lens](https://img.shields.io/badge/Lens-01501e?style=for-the-badge&logo=data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQwcHgiIGhlaWdodD0iMzlweCIgdmlld0JveD0iMCAwIDQwIDM5IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9IkFydGJvYXJkIiBmaWxsPSIjRkZGRkZGIiBmaWxsLXJ1bGU9Im5vbnplcm8iPgogICAgICAgICAgICA8cGF0aCBkPSJNMzguNzksMzQuNiBMMzguMzgsMzQuNzkgQzM1LjkyLDM1LjkyIDMzLjEsMzYuMjIgMzAuNDUsMzUuNjIgQzI5LjAyLDM1LjMgMjcuNjksMzQuNzQgMjYuNDgsMzMuOTcgQzI4Ljg4LDM0LjYgMzEuNSwzNC4zIDMzLjcxLDMzLjEzIEMzMy44MSwzMy4wOCAzMy45MiwzMy4wMiAzNC4wMiwzMi45NiBMMzQuNDUsMzIuNzIgTDMzLjI1LDMwLjYxIEwzMi44MiwzMC44NiBDMzIuNzQsMzAuOTEgMzIuNjYsMzAuOTUgMzIuNTgsMzAuOTkgQzMwLjE5LDMyLjI1IDI3LjM3LDMyLjE2IDI1LjA0LDMwLjc2IEMyMi45NywyOS41MiAyMS42MywyNy40NyAyMS4zLDI1LjE0IEMyNC4xNSwyNC44OCAzMS4xNCwyMy42NiAzNi43NSwxOC4wNSBDMzYuOSwxNy45IDM3LjA1LDE3Ljc1IDM3LjE5LDE3LjYgQzM4Ljc0LDE1Ljk2IDM5LjQ4LDE0LjAxIDM5LjMyLDExLjk1IEMzOS4xOCwxMC4xNCAzOC4zNSw4LjM5IDM2Ljk5LDcuMDMgQzM1LjYzLDUuNjcgMzMuODcsNC44MyAzMi4wNyw0LjcgQzMwLjQ2LDQuNTcgMjguODgsNS4wMSAyNy40OSw1Ljk2IEMyNy4xOCw0LjMgMjYuMzgsMi44OSAyNS4xNSwxLjgzIEMyMy43NywwLjY1IDIxLjk1LDAgMjAuMDIsMCBDMTguMDksMCAxNi4yNiwwLjY1IDE0Ljg5LDEuODMgQzEzLjY2LDIuODkgMTIuODYsNC4zIDEyLjU1LDUuOTYgQzExLjE2LDUuMDEgOS41OSw0LjU3IDcuOTcsNC43IEM2LjE2LDQuODQgNC40MSw1LjY3IDMuMDUsNy4wMyBDMS42OCw4LjQgMC44NSwxMC4xNSAwLjcyLDExLjk1IEMwLjU2LDE0LjAxIDEuMywxNS45NiAyLjg1LDE3LjYgQzIuOTksMTcuNzUgMy4xNCwxNy45IDMuMjksMTguMDUgQzguOSwyMy42NiAxNS44OCwyNC44OCAxOC43NCwyNS4xNCBDMTguNDEsMjcuNDcgMTcuMDYsMjkuNTIgMTUsMzAuNzYgQzEyLjY2LDMyLjE3IDkuODQsMzIuMjUgNy40NiwzMC45OSBDNy4zOCwzMC45NSA3LjMsMzAuOSA3LjIyLDMwLjg2IEw2Ljc5LDMwLjYxIEw1LjU5LDMyLjcyIEw2LjAyLDMyLjk2IEM2LjEyLDMzLjAyIDYuMjMsMzMuMDggNi4zMywzMy4xMyBDOC41NSwzNC4zIDExLjE3LDM0LjYgMTMuNTYsMzMuOTcgQzEyLjM2LDM0Ljc0IDExLjAyLDM1LjMgOS41OSwzNS42MiBDNi45NCwzNi4yMiA0LjEyLDM1LjkyIDEuNjYsMzQuNzkgTDEuMjUsMzQuNiBMMCwzNi43IEwwLjQ5LDM2LjkzIEMzLjQzLDM4LjMxIDYuODksMzguNjkgMTAuMDksMzcuOTggQzEzLjQxLDM3LjIzIDE2LjI5LDM1LjQzIDE4LjQyLDMyLjc3IEMxOC41NSwzMi42MSAxOC42NywzMi40NCAxOC44LDMyLjI4IEwxOC44LDM4LjM1IEwyMS4yMiwzOC4zNSBMMjEuMjIsMzIuMjYgQzIxLjM1LDMyLjQzIDIxLjQ3LDMyLjYxIDIxLjYxLDMyLjc3IEMyMy43NCwzNS40MyAyNi42MiwzNy4yMyAyOS45NCwzNy45OCBDMzEuMDEsMzguMjIgMzIuMTEsMzguMzQgMzMuMjEsMzguMzQgQzM1LjQsMzguMzQgMzcuNTgsMzcuODUgMzkuNTQsMzYuOTMgTDQwLDM2LjcgTDM4Ljc5LDM0LjYgWiBNMTQuOCw4LjM3IEMxNC44LDguMjMgMTQuNzksOC4wOSAxNC43OSw3Ljk0IEMxNC43OSw3Ljc1IDE0Ljc5LDcuNTYgMTQuOCw3LjM4IEMxNC44OSwzLjk2IDE3LjU2LDIuNCAyMCwyLjQgQzIyLjQ0LDIuNCAyNS4xMSwzLjk2IDI1LjIsNy4zOCBDMjUuMjEsNy41NyAyNS4yMSw3Ljc2IDI1LjIxLDcuOTQgQzI1LjIxLDguMDkgMjUuMjEsOC4yMyAyNS4yLDguMzggTDI1LjExLDExLjY0IEwyNy4zOCw5LjI0IEMyNy40Nyw5LjE0IDI3LjU2LDkuMDUgMjcuNjYsOC45NSBDMjcuNzksOC44MiAyNy45Myw4LjY5IDI4LjA2LDguNTYgQzMwLjU0LDYuMjEgMzMuNTMsNi45OSAzNS4yNiw4LjcyIEMzNi45OSwxMC40NSAzNy43NywxMy40MyAzNS40MiwxNS45MiBDMzUuMjksMTYuMDYgMzUuMTYsMTYuMTkgMzUuMDMsMTYuMzIgQzI4LjcsMjIuNjcgMjAuMDgsMjIuNzggMjAsMjIuNzggQzE5LjkxLDIyLjc4IDExLjMxLDIyLjY3IDQuOTcsMTYuMzMgQzQuODQsMTYuMiA0LjcxLDE2LjA2IDQuNTgsMTUuOTMgQzIuMjMsMTMuNDQgMy4wMSwxMC40NiA0Ljc0LDguNzMgQzUuNzgsNy42OSA3LjE1LDcuMDkgOC40OSw3LjA5IEM5Ljc0LDcuMDkgMTAuOSw3LjU5IDExLjk0LDguNTcgQzEyLjA4LDguNyAxMi4yMSw4LjgzIDEyLjM0LDguOTYgQzEyLjQ0LDkuMDcgMTIuNTQsOS4xNyAxMi42NSw5LjI4IEwxNC45LDExLjY1IEwxNC44LDguMzcgWiIgaWQ9IlNoYXBlIj48L3BhdGg+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=)
-](https://www.lensfrens.xyz/dennis_zoma.lens)
 
 ***
 
 ### My Projects:
 
-🪪 [AZERO.ID](https://azero.id) – Your Digital Identity in one Domain. The official Domain Name Service for Aleph Zero and beyond.
+🌐 [Nameverse](https://nameverse.org) – Developing novel onchain naming solutions.
 
-[![Github AZERO ID](https://img.shields.io/badge/azero.id-333?logo=github&logoColor=white)](https://github.com/azero-id)
+[![Github Nameverse](https://img.shields.io/badge/nameverse-333?logo=github&logoColor=white)](https://github.com/nameverse)
 
-🦑 [ink!athon](https://github.com/scio-labs/inkathon) – Full-Stack DApp Boilerplate for Substrate and ink! Smart Contracts.
+🥇 [Unwallet](https://nameverse.org) – Seedless smart wallets meet multichain domains. Our project that won the Grand Prize at the Chainlink Constellation hackathon.
 
-[![Github inkathon](https://img.shields.io/badge/scio/inkathon-333?logo=github&logoColor=white)](https://github.com/scio-labs/inkathon)
+[![Unwallet](https://img.shields.io/badge/unwallet-333?logo=github&logoColor=white)](https://github.com/Unwallet-constellation)
 
-🪙 [Stablecoins.wtf](https://stablecoins.wtf) – Historical market data, statistics, and educational content about the most popular stablecoins and their mechanisms.
+🪪 [AZERO.ID](https://azero.id) – Official domain name service for Aleph Zero.
 
-[![Github Stablecoins](https://img.shields.io/badge/stablecoins.wtf/stablecoins.wtf-333?logo=github&logoColor=white)](https://github.com/stablecoins-wtf/stablecoins.wtf)
+[![Github AZERO ID](https://img.shields.io/badge/azero–id-333?logo=github&logoColor=white)](https://github.com/azero-id)
 
-💌 [yieldgate.xyz](https://yieldgate.xyz) – A platform for creators to be supported with yield. It was selected as an ETHGlobal 2022 finalist in Amsterdam. 
+🐙 [ink!athon](https://github.com/scio-labs/inkathon) – Full-stack dApp boilerplate for ink! smart contracts with an integrated frontend.
 
-[![Github Yieldgate](https://img.shields.io/badge/yieldgate/yieldgate-333?logo=github&logoColor=white)](https://github.com/yieldgate/yieldgate)
+[![Github inkathon](https://img.shields.io/badge/scio–labs/inkathon-333?logo=github&logoColor=white)](https://github.com/scio-labs/inkathon)
+
+🪙 [Stablecoins.wtf](https://stablecoins.wtf) – Market data, statistics, and education about stablecoins.
+
+[![Github Stablecoins](https://img.shields.io/badge/stablecoins.wtf-333?logo=github&logoColor=white)](https://github.com/stablecoins-wtf/stablecoins.wtf)
