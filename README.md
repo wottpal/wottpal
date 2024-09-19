@@ -1,4 +1,4 @@
-Hey, I'm a fullstack developer & founder based in Germany.
+**Hey, I'm a fullstack developer & founder based in Germany.**
 
 I have been building software in Health Crypto AI for over a decade after completing my computer science degree.
 
@@ -15,8 +15,6 @@ When I'm not shipping products, I like to cook with my wife and hit some balls o
 ](https://www.linkedin.com/in/dennis-zoma/)
 
 ***
-
-### My Projects:
 
 🌐 [Nameverse.org](https://nameverse.org) – Developing novel onchain naming solutions.
 
