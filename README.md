@@ -1,4 +1,6 @@
-**Hey, I'm a fullstack developer and founder based in Germany.**
+### About me
+
+Hey, I'm a fullstack developer and founder based in Germany.
 
 I have been building software in Health, Crypto, and AI for over a decade after completing my computer science degree.
 
@@ -17,6 +19,8 @@ When I'm not shipping products, I like to cook with my wife, play with our toddl
 ***
 
 ### Highlighted Product
+
+[![viral.app banner](assets/viral-app-banner.png)](https://viral.app)
 
 [**viral.app**](https://viral.app) - The operating system for UGC marketing.
 
