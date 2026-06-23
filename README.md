@@ -18,8 +18,6 @@ When I'm not shipping products, I like to cook with my wife, play with our toddl
 
 ***
 
-### Highlighted Product
-
 [![viral.app banner](assets/viral-app-banner.png)](https://viral.app)
 
 [**viral.app**](https://viral.app) - The operating system for UGC marketing.
