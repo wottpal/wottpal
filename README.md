@@ -1,8 +1,8 @@
-**Hey, I'm a fullstack developer & founder based in Germany.**
+**Hey, I'm a fullstack developer and founder based in Germany.**
 
-I have been building software in Health Crypto AI for over a decade after completing my computer science degree.
+I have been building software in Health, Crypto, and AI for over a decade after completing my computer science degree.
 
-When I'm not shipping products, I like to cook with my wife and hit some balls over the net.
+When I'm not shipping products, I like to cook with my wife, play with our toddler, and hit some balls over the net.
 
 [
 ![My Website](https://img.shields.io/badge/My%20Website-000?style=for-the-badge&logo=linktree&logoColor=white)
@@ -16,25 +16,11 @@ When I'm not shipping products, I like to cook with my wife and hit some balls o
 
 ***
 
-🌐 [Nameverse.org](https://nameverse.org) – Developing novel onchain naming solutions.
+### Highlighted Product
 
-[![Github Nameverse](https://img.shields.io/badge/nameverse-333?logo=github&logoColor=white)](https://github.com/nameverse)
+[**viral.app**](https://viral.app) - The operating system for UGC marketing.
 
-🥇 [Unwallet.me](https://unwallet.me) – Seedless smart wallets meet multichain domains. _Won the Grand Prize at Chainlink Constellation._
-
-[![Unwallet](https://img.shields.io/badge/unwallet-333?logo=github&logoColor=white)](https://github.com/Unwallet-constellation)
-
-🪪 [AZERO.ID](https://azero.id) – Official domain name service for Aleph Zero.
-
-[![Github AZERO ID](https://img.shields.io/badge/azero–id-333?logo=github&logoColor=white)](https://github.com/azero-id)
-
-🐙 [inkathon.xyz](https://inkathon.xyz) – Full-stack dApp boilerplate for ink! smart contracts with an integrated frontend.
-
-[![Github inkathon](https://img.shields.io/badge/scio–labs/inkathon-333?logo=github&logoColor=white)](https://github.com/scio-labs/inkathon)
-
-🪙 [Stablecoins.wtf](https://stablecoins.wtf) – Market data, statistics, and education about stablecoins.
-
-[![Github Stablecoins](https://img.shields.io/badge/stablecoins.wtf-333?logo=github&logoColor=white)](https://github.com/stablecoins-wtf/stablecoins.wtf)
+Track TikTok, Instagram Reels, YouTube Shorts, and UGC creator campaigns in one place. Manage creators, analytics, reporting, and payouts with viral.app.
 
 ***
 
